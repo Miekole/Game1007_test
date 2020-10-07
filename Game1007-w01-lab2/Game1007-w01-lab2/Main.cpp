@@ -3,6 +3,6 @@
 
 int main()
 {
-	std::cout << "Hello World" << std::endl;
+	std::cout << "Hello World, i hate github" << std::endl;
 	return 0;
 }
